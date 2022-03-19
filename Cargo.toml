@@ -2,9 +2,9 @@
 name = "sbkafka"
 version = "0.1.0"
 edition = "2021"
-description = "easy consumption of rdkafka"
+description = "Easy consumption of rdkafka"
 homepage = "https://github.com/robbestad/sbkafka"
-license = "UNLICENSED"
+license = "MIT"
 readme = "README.md"
 
 [dependencies]
